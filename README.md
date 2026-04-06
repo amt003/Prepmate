@@ -232,9 +232,6 @@ REACT_APP_API_URL=http://localhost:5000/api
 4. Push to branch: `git push origin feature/amazing-feature`
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see LICENSE file for details.
 
 ## 👥 Team
 
